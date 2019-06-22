@@ -1,0 +1,24 @@
+{
+  "name": "tet_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webapplicationdev/tet_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webapplicationdev/tet_site/issues"
+  },
+  "homepage": "https://github.com/webapplicationdev/tet_site#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
